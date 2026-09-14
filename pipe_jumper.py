@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """Pipe Jumper — colorful original platformer (not a Mario emulator)."""
 import sys
-import random
+
 import pygame
 
 WIDTH, HEIGHT = 960, 540

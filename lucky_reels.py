@@ -1,7 +1,8 @@
 #!/usr/bin/env python3
 """Lucky Reels — colorful 3-reel slot machine (play money)."""
-import sys
 import random
+import sys
+
 import pygame
 
 WIDTH, HEIGHT = 820, 560

@@ -19,10 +19,8 @@ Featured on / shout-out: [x.com/ElbowOS](https://x.com/ElbowOS)
 ## Run
 
 ```bash
-python3 -m venv .venv
-source .venv/bin/activate   # Windows: .venv\Scripts\activate
-pip install -r requirements.txt
-python3 play.py
+uv sync
+uv run main.py
 ```
 
 Needs Python 3.10+ and a windowed desktop (pygame).

@@ -1,7 +1,8 @@
 #!/usr/bin/env python3
 """Memory Flip — colorful matching pairs."""
-import sys
 import random
+import sys
+
 import pygame
 
 WIDTH, HEIGHT = 760, 640

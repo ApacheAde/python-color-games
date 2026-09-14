@@ -1,8 +1,9 @@
 #!/usr/bin/env python3
 """Color Wheel — simple 3-color roulette (play money)."""
-import sys
 import math
 import random
+import sys
+
 import pygame
 
 WIDTH, HEIGHT = 860, 620

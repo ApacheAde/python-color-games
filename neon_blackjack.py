@@ -1,7 +1,8 @@
 #!/usr/bin/env python3
 """Neon Blackjack — colorful 21 against the dealer."""
-import sys
 import random
+import sys
+
 import pygame
 
 WIDTH, HEIGHT = 900, 600

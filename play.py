@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Tiny launcher for the color games collection."""
+"""Tiny launcher for the color games collection."""  # noqa: EXE001
 import os
 import subprocess
 import sys
